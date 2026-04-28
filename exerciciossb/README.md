@@ -41,15 +41,6 @@ Com a aplicação rodando, você pode visualizar e testar todos os endpoints atr
 
 ## 🔗 Exemplos de Endpoints
 
-### Autenticação
-* `POST /api/auth/register` - Cria um novo usuário.
-* `POST /api/auth/login` - Autentica e retorna o Token JWT.
-
-### Produtos
-* `GET /api/produtos/listar` - Lista todos os produtos (sem paginação).
-* `GET /api/produtos/pagina?page=0&size=10` - Lista produtos paginados.
-* `GET /api/produtos/{id}` - Busca um produto específico.
-* `POST /api/produtos` - Cadastra um novo produto (Requer Token ADMIN).
 
 
 
