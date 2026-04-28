@@ -51,6 +51,12 @@ Com a aplicação rodando, você pode visualizar e testar todos os endpoints atr
 * `GET /api/produtos/{id}` - Busca um produto específico.
 * `POST /api/produtos` - Cadastra um novo produto (Requer Token ADMIN).
 
+
+
+<div align="center">
+  <img src="assets/swagger-api.PNG" alt="Swagger UI" width="800px">
+</div>
+
 ---
 
 ## 👨‍💻 Autor
